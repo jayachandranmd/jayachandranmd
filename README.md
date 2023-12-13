@@ -7,13 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayachandranmd&label=Profile%20views&color=0e75b6&style=flat" alt="jayachandranmd" /> </p>
 
-- 🔭 I’m currently working on **a Text Recognizer app using flutter**
+- 🔭 I’m currently working on **Mental Wellness Application**
 
-- 🌱 I’m currently learning **game development in flutter**
+- 🌱 I’m currently learning **Tesing in Flutter**
 
 - 👯 I’m looking to collaborate on **flutter desktop applications**
-
-- 🤝 I’m looking for help with **animations in flutter**
 
 - 💬 Ask me about **flutter or any tech related stuff**
 
